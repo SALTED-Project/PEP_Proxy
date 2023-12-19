@@ -1,0 +1,10 @@
+{
+    "broker_protocol": "http",
+    "broker_ip": broker_ip,
+    "broker_port": broker_port,
+    "cert_file": cert_path,
+    "key_file": key_path,
+    "listen_port": 443,
+    "session_secret": session_secret,
+    "host_name": hostname
+}
